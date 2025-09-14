@@ -1,4 +1,6 @@
-# Detona-Ralph-Dio
+# 🎮 Detona Ralph - DIO Challenge
+
+Projeto desenvolvido durante o Bootcamp da Digital Innovation One (DIO), com foco em habilidades de front-end. A proposta é criar uma página inspirada no universo do filme Detona Ralph, utilizando HTML, CSS e JavaScript.
 
 ## Conecte-se comigo
 #### Vamos se tornar amigos, trocar ideias, realizar projetos juntos, e buscar uma vaga no mercado de trabalho ^^.
